@@ -7,6 +7,13 @@ Made by: Toprak and Montek
 Toprak, Student ID: 
 Montek, Student ID: 300200716
 
+## Website
+
+The website is hosted at [cis245.great-site.net](http://cis245.great-site.net/)
+
+> **Note**: If the website does not render the login page, try a different browser.
+
+
 ## Features
 
 - **User Authentication**: Includes user registration and login functionality.

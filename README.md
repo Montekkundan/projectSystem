@@ -70,20 +70,20 @@ The design of the system is intentionally simple for ease of use and understandi
 
 ## User page
 
-[user page](/images/user.png)
+![user page](/images/user.png)
 
 ## Admin page
 
-[Admin page](/images/admin_user.png)
+![Admin page](/images/admin_user.png)
 
 ## Login page
 
-[Login page](/images/login.png)
+![Login page](/images/login.png)
 
 ## Register page
 
-[Register page](/images/register.png)
+![Register page](/images/register.png)
 
 ## Appointment page
 
-[Appointment page](/images/appointment.png)
+![Appointment page](/images/appointment.png)

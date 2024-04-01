@@ -9,7 +9,7 @@ Montek, Student ID: 300200716
 
 ## Website
 
-The website is hosted at [cis245.great-site.net](http://cis245.great-site.net/)
+The website is hosted at [cis245.great-site.net](http://cis245.great-site.net/) using InfinityFree hosting.
 
 > **Note**: If the website does not render the login page, try a different browser.
 
@@ -67,3 +67,23 @@ The security of the application has been a primary focus:
 ## Design Considerations
 
 The design of the system is intentionally simple for ease of use and understanding. The interface is clean and intuitive, ensuring that users can navigate and use the system with minimal instruction.
+
+## User page
+
+[user page](/images/user.png)
+
+## Admin page
+
+[Admin page](/images/admin_user.png)
+
+## Login page
+
+[Login page](/images/login.png)
+
+## Register page
+
+[Register page](/images/register.png)
+
+## Appointment page
+
+[Appointment page](/images/appointment.png)
